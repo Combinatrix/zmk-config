@@ -1,0 +1,13 @@
+file_format: "1"
+id: dacman45
+name: DacMan45
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+  - studio
+siblings:
+  - dacman45_left
+  - dacman45_right
