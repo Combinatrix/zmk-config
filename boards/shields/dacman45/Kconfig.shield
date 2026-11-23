@@ -5,3 +5,6 @@ config SHIELD_DACMAN45_LEFT
 
 config SHIELD_DACMAN45_RIGHT
     def_bool $(shields_list_contains,dacman45_right)
+
+config SHIELD_DACMAN45_DONGLE
+    def_bool $(shields_list_contains,dacman45_dongle)
